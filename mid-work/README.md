@@ -1,1 +1,2 @@
-1
+HTML部分是原創
+JaveScript是參考別人,參考來源貼在HTML的連結
